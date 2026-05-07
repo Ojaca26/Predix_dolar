@@ -16,7 +16,7 @@ El corazon de la version 2.0 es su metodo de decision desglosado:
    
 2. SEÑAL FUNDAMENTAL:
    - Analisis de noticias en tiempo real con Tavily.
-   - Scoring de sentimiento (-1 a +1) mediante IA (Gemini).
+   - Scoring de sentimiento (-1 a +1) mediante IA (modelo IA local - Qwen2.5).
 
 3. SEÑAL DE TENDENCIA:
    - Calculo de Medias Moviles (MA) de 90 y 180 dias.
@@ -47,6 +47,6 @@ INFRAESTRUCTURA:
 Optimizado para correr 24/7 en una Raspberry Pi 5, utilizando un 
 servicio de sistema (systemd) para asegurar la maxima estabilidad.
 
-*** Desarrollado con Python, LangGraph y Google Gemini ***
+*** Desarrollado con Python, LangGraph, Google Gemini & modelo local Qwen2.5 ***
 
 Oscar J Carabali P. - 2026

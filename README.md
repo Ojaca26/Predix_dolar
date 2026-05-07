@@ -1,6 +1,5 @@
-========================================================================
-   PREDIX DOLAR v2.0 - SISTEMA INTELIGENTE DE PREDICCION USD/COP
-========================================================================
+
+*** PREDIX DOLAR v2.0 - SISTEMA INTELIGENTE DE PREDICCION USD/COP ***
 
 DESCRIPCION GENERAL:
 PredixDolar es un ecosistema multi-agente de Inteligencia Artificial 
@@ -48,8 +47,6 @@ INFRAESTRUCTURA:
 Optimizado para correr 24/7 en una Raspberry Pi 5, utilizando un 
 servicio de sistema (systemd) para asegurar la maxima estabilidad.
 
-========================================================================
-Desarrollado con Python, LangGraph y Google Gemini.
-========================================================================
+*** Desarrollado con Python, LangGraph y Google Gemini ***
 
 Oscar J Carabali P. - 2026
